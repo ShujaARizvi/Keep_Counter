@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Keep Counter</string>
+    <string name="app_version">v1.0</string>
+
+    <string name="count_preference">Counters</string>
+    <string name="settings_preference">settings_preference</string>
+
+    <string name="feedback_address">synchronous.bros@gmail.com</string>
+
+    <!--Test AdMob Credentials-->
+    <!--<string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+    <!--<string name="banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>-->
+
+    <!--Real AdMob Credentials-->
+    <string name="admob_app_id">ca-app-pub-2235617608814115~3966666953</string>
+    <string name="banner_ad_id">ca-app-pub-2235617608814115/6453105782</string>
+
+</resources>

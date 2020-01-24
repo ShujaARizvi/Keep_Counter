@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Usual colors-->
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#b31e8a</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Special colors for dark mode-->
+    <color name="colorPrimary_Dark_Theme">#454545</color>
+    <color name="colorBackground_Dark_Theme">#333333</color>
+
+    <!--Colors for card background-->
+    <color name="card_blue">#AECBFA</color>
+    <color name="card_red">#F28B82</color>
+    <color name="card_green">#CCFF90</color>
+    <color name="card_purple">#D7AEFB</color>
+</resources>

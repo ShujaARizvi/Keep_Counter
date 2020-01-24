@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+            <item
+                android:id="@+id/menu_pinned"
+                android:title="Pin"
+                android:icon="@mipmap/pinned_24"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/menu_share"
+                android:title="Share"
+                android:icon="@mipmap/share_24"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/menu_color"
+                android:title="Color"
+                android:icon="@mipmap/color_24"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/menu_history"
+                android:title="History"
+                android:icon="@mipmap/history_24"
+                app:showAsAction="never"/>
+
+</menu>

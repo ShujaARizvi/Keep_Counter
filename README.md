@@ -1,4 +1,4 @@
-# Keep Counter
+# Keep Counter <img src="https://github.com/ShujaARizvi/Keep_Counter/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="50" height="50">
 Keep Counter is an app built to satisfy all your everyday counting needs. It provides all the features a modern counter app should include, with the current trends such as the "Dark Mode". Keep Counter was designed keeping in mind the concept of safe keeping, so you can keep all your counters in one place.
 
 ##### Features Include:

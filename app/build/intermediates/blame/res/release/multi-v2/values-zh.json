@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\SHUJA\\Desktop\\LearningAndroidUdacity\\Counter\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHUJA\\.gradle\\caches\\transforms-2\\files-2.1\\032726fed80a6389b2668e0a89a1b245\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,165,218,280,403,534,630,719,785",
+                        "endColumns": "55,53,52,61,122,130,95,88,65,87",
+                        "endOffsets": "106,160,213,275,398,529,625,714,780,868"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHUJA\\.gradle\\caches\\transforms-2\\files-2.1\\c663b5e6e4551c2d635dc75ee67b5206\\res\\values-zh\\values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,202,251,297",
+                        "endColumns": "50,95,48,45,53",
+                        "endOffsets": "101,197,246,292,346"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "873,924,1020,1069,1115",
+                        "endColumns": "50,95,48,45,53",
+                        "endOffsets": "919,1015,1064,1110,1164"
+                    }
+                }
+            ]
+        }
+    ]
+}

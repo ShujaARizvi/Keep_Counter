@@ -1,0 +1,4 @@
+#Sat Feb 02 00:12:34 PKT 2019
+base.0=C\:\\Users\\SHUJA\\Desktop\\LearningAndroidUdacity\\Counter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
